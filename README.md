@@ -1,2 +1,2 @@
-# Simple-ATM-Management-System
-A simple ATM Management System with CRUD Functions using Microsoft SQL Server Management System 18 (MySQL)
+# ATM-Management-System
+A simple CRUD ATM management system using Windows Forms .NET and Connection Strings in SQL
